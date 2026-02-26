@@ -1,7 +1,7 @@
   # Welcome to Boot Lab 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/boot-lab/.github/main/profile/logo.png" alt="Boot Lab" width="250" />
+  <img src="./logo.png" alt="Boot Lab" width="250" />
 </p>
 
 <p align="center"><strong>Your tech team, from idea to product.</strong></p>
