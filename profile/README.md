@@ -16,7 +16,7 @@ We partner with businesses to turn ideas into production-ready products — no f
 
 ### 🌐 Learn more
 
-- 🔗 Website: [bootlab.dev](https://bootlab.dev)
+- 🔗 Website: [bootlab.dev](https://bootlab.dev/en/)
 
 ---
 
